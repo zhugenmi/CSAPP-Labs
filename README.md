@@ -1,5 +1,5 @@
 # CSAPP_Labs
-- [ ] Data Lab
+- [x] Data Lab
 - [ ] Bomb Lab
 - [ ] Attack Lab
 - [ ] Buffer Lab
